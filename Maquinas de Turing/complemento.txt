@@ -1,0 +1,9 @@
+# Estado 0:
+# Moverse a la derecha, calculando
+# el complemento del simbolo actual
+0 0 0 1 R
+0 1 0 0 R
+0 _ 1 _ *
+# Estado 1:
+# Terminar el programa
+1 _ H _ *
